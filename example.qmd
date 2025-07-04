@@ -1,0 +1,9 @@
+---
+title: "Open-links-new-tab Example"
+filters:
+  - open-links-new-tab
+---
+
+# This is a heading
+
+And this is a [link](https://www.google.com) that will automatically open in a new tab. 
