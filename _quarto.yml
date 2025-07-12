@@ -21,6 +21,8 @@ website:
           contents:
             - text: W1 Sites of Struggle
               file: w1-sites-of-struggle.qmd
+            - text: W2 Ideology and the Orwellian
+              file: w2-ideology.qmd
         #- section: "Resources"
         #  contents:
         #    - text: Theory as Narrative
