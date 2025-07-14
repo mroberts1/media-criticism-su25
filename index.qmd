@@ -1,8 +1,8 @@
 ---
-title: "    "
+title: "VM200-2 Media Criticism & Theory"
 ---
 
-# VM200-2 Media Criticism & Theory
+## VM200-2 Media Criticism & Theory
 
 [![](img/cindy-sherman.jpg){fig-alt="Link to MOMA website about Cindy Sherman's Film Stills project"}](https://www.moma.org/interactives/exhibitions/1997/sherman/index.html)
 
@@ -107,7 +107,7 @@ Do not plagiarize. Plagiarism is using someone else’s work without giving them
 
 **Disability Statement**
 
-*Accommodations for Students with Disabilities*
+**Accommodations for Students with Disabilities**
 
 Emerson is committed to providing equal access and support to all qualified students through the provision of reasonable accommodations, so that each student may fully participate in the Emerson experience. Student Accessibility Services (SAS) staff will be working remotely for the fall of 2020. If you have a disability that may require accommodations, please contact them at  [*SAS@emerson.edu*](mailto:SAS@emerson.edu) or at (617)824-8592 to make an appointment with an SAS staff member.
 
@@ -131,9 +131,9 @@ Discussion Posts 35%
 
 Response papers (2) 10%
 
-## Class Schedule (subject to change)
+**Class Schedule** (provisional)
 
-Week 1: Mon 5/12---Sun 5/18
+*Week 1: Wed 2 July---Tues 8 July*
 
 **Introduction: Sites of Struggle**
 
@@ -144,7 +144,7 @@ To read:
 - David Welch, "The Conquest of the Masses" (from **The Third Reich: Politics and Propaganda** (1993))
 - Umberto Eco, "Semiological Guerrilla Warfare"
 
-Week 2: Mon 5/19---Sun 25
+*Week 2: Wed 9 July---Tues 15 July*
 
 **Obey: Ideology and the Orwellian**
 
@@ -156,7 +156,7 @@ To read:
 
 To watch (if you haven't already!): **Squid Game**
 
-Week 3: Mon 5/26---Sun 6/1
+*Week 3: Wed 16 July---Tues 22 July*
 
 **Simulation and Pastiche: Postmodernism**
 
@@ -172,16 +172,16 @@ To watch:
 - **El Planeta** (Amalia Ulman, 2020)
 - **Inventing Anna**, episode 6 (Netflix, 2022)s
 
-**Due 6/1: Paper 1**
+**Due Tuesday 22 July: Paper 1**
 
-Week 4: Mon 6/2---Sun 6/8
+*Week 4: Wed 23 July---Tues 29 July*
 
 **Feminism/Postfeminism**
 
 - Diane Negra and Yvonne Tasker, "Introduction", **Interrogating Postfeminism: Gender and the Politics of Popular Culture** (Durham, NC: Duke University Press, 2007)
 - Martin Roberts, "The Fashion Police: Governing the Self in **What Not To Wear**" (in Negra and Tasker, eds., **Interrogating Postfeminism**: 227-248)
 
-Week 5: Mon 6/9---Sun 6/15
+*Week 5: Wed 30 July---Tues 5 August*
 
 **Witnessing**
 
@@ -190,25 +190,29 @@ Allissa Richardson, **Bearing Witness While Black**
 -   "Looking As Rebellion: The Concept of Black Witnessing" (ch. 1)
 -   "The New Protest \#Journalism: Black Witnessing as Counternarrative" (ch. 3)
 
-**Response Paper 1 (**El Planeta**) due 6/15**
+**Due Wed 30 July: Response Paper 1 (**El Planeta**)**
 
-Week 6: Mon 6/16---Sun 6/22
+*Week 6: Wed 6 August---Tues 12 August*
 
 **Tribes: Subcultures, Lifestyles, Aesthetics**
 
 - Guilherme Giolo and Michaël Berghman, "The Aesthetics of the Self: The Meaning-Making of Internet Aesthetics"
 - See also: [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) (read all articles in the section called "What Are Aesthetics?" and explore the site)
 
-Week 7: Mon 6/23---Sun 6/29
+**Due Tuesday 12 August: Response Papr 2 (film analysis)**
+
+*Week 7: Wed 13 August---Tues 19 August*
 
 **Fandom**
 
 - Nancy Baym, "Social Media and the Struggle for Society"
 - Nancy Baym, Daniel Cavicchi, Norma Coates, "Music Fandom in the Digital Age: A Conversation" (in Melissa A. Click and Suzanne Scott, eds., **The Routledge Companion to Media Fandom** (New York: Routledge/Taylor & Francis, 2018: 141-52))
 
-**Response Paper 2/Creative Project Due 6/29**
+**Due Tues 19 Aug: Paper 2/Creative Project Due**
 
-## Bibliography
+***
+
+**Bibliography**\
 
 Fisher, Mark, **Capitalist Realism: Is There No Alternative?** (Winchester, UK, and Washington, USA: Zero Books, 2009).
 
