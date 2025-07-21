@@ -24,6 +24,8 @@ website:
               file: w1-sites-of-struggle.qmd
             - text: W2 Ideology and the Orwellian
               file: w2-ideology.qmd
+            - text: W3 Simulation and Pastiche
+              file: w3-simulation-pastche.qmd
         #- section: "Resources"
         #  contents:
         #    - text: Theory as Narrative
