@@ -25,7 +25,7 @@ website:
             - text: W2 Ideology and the Orwellian
               file: w2-ideology.qmd
             - text: W3 Simulation and Pastiche
-              file: w3-simulation-pastche.qmd
+              file: w3-simulation-pastiche.qmd
         #- section: "Resources"
         #  contents:
         #    - text: Theory as Narrative
