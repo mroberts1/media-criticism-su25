@@ -1,7 +1,14 @@
 ---
 title: "    "
-
 ---
+
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
 
 # W1: Introduction: Sites of Struggle
 

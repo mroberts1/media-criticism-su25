@@ -1,8 +1,16 @@
 ---
-title: "   "
+title: "    "
 ---
 
-## VM200-2 Media Criticism & Theory
+```{r}
+#| label: load-packages
+#| include: false
+
+library(tidyverse)
+library(palmerpenguins)
+```
+
+# VM200-2 Media Criticism & Theory
 
 [![](img/cindy-sherman.jpg){fig-alt="Link to MOMA website about Cindy Sherman's Film Stills project"}](https://www.moma.org/interactives/exhibitions/1997/sherman/index.html)
 
@@ -82,7 +90,7 @@ Plan on reading every assignment as listed on the course calendar. Since the rea
 Full participation in class discussions and timely submission of all assignments constitutes evidence of class attendance. Students are expected to allocate sufficient time to complete all the requirements for each module: reading, viewing, responding to discussion questions, submitting replies to classmates, and completing other assignments on time. Failure to keep up with the pace of the course may result in lower grades or the failure of the class.
 
 **Discussion Forums and Weekly Response Posts**\
-Each week you are required to post a response of approximately 100-250 words to the course readings and/or the weekly lecture. The purpose of this assignment is for you to reflect on lectures, reading assignments or media clips and to pose questions. Along with your initial post, you are also required to respond to at least two (2) of your peers’ comments. Response posts are usually due by the end of the week in question: in this case, since the course began on a Wednesday ()
+Each week you are required to post a response of approximately 100-250 words to the course readings and/or the weekly lecture. The purpose of this assignment is for you to reflect on lectures, reading assignments or media clips and to pose questions. Along with your initial post, you are also required to respond to at least two (2) of your peers’ comments. Response posts are usually due by the end of the week in question: in this case, since the course began on a Wednesday, posts will be due by the Tuesday of the following week.
 
 **Individual Papers**\
 Each of you will write two analytical  papers, which are due on June 9 and July 7 respectively. For the second paper assignment, you have the option to do a creative project (instead of a paper) using either BCS or Postmodernism concepts. Detailed instructions of the assignments are posted on Canvas. Feel free to consult with me if you have questions about an assignment or think you need extra help.
@@ -99,9 +107,6 @@ The grading scale for papers is as follows:
 |C|This work exhibits problems in several of the aforementioned areas or a major problem in one. (C=75)|
 |D|This work exhibits little understanding of the subject matter or paper requirements. It fails to follow rudimentary formatting and displays sloppiness in spelling, grammar and sourcing. (D=65)|
 |F|This work exhibits no understanding of the subject matter or paper requirements. It fails to follow rudimentary formatting and displays sloppiness in spelling, grammar and sourcing. (F=55)|
-
-**Late Assignments**\
-All late papers automatically lose one letter grade*! After two (calendar) days, loss of two letter grades. After three days, no credit. Exceptions, unless truly serious, will not be made.
 
 **Academic Honesty**\
 Do not plagiarize. Plagiarism is using someone else’s work without giving them fair credit. Plagiarism and cheating will result in an “F” for the assignment.
@@ -179,8 +184,8 @@ To watch:
 
 **Feminism/Postfeminism**
 
-- Diane Negra and Yvonne Tasker, "Introduction", **Interrogating Postfeminism: Gender and the Politics of Popular Culture** (Durham, NC: Duke University Press, 2007)
-- Martin Roberts, "The Fashion Police: Governing the Self in **What Not To Wear**" (in Negra and Tasker, eds., **Interrogating Postfeminism**: 227-248)
+- Diane Negra and Yvonne Tasker, "[Introduction](pdf/interrogating-postfeminism-intro.pdf)", **Interrogating Postfeminism: Gender and the Politics of Popular Culture** (Durham, NC: Duke University Press, 2007)
+- Martin Roberts, "[The Fashion Police: Governing the Self in **What Not To Wear**](pdf/fashion-police.pdf)" (in Negra and Tasker, eds., **Interrogating Postfeminism**: 227-248)
 
 *Week 5: Wed 30 July---Tues 5 August*
 
