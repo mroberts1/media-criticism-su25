@@ -26,8 +26,8 @@ website:
               file: w2-ideology.qmd
             - text: W3 Simulation and Pastiche
               file: w3-simulation-pastiche.qmd
-            - text: W4 Feminism/Postfeminism
-              file: w4-feminism-postfeminism.qmd
+            - text: W4 Material Girls
+              file: w4-feminism.qmd
         #- section: "Resources"
         #  contents:
         #    - text: Theory as Narrative
