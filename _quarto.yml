@@ -28,6 +28,8 @@ website:
               file: w3-simulation-pastiche.qmd
             - text: W4 Material Girls
               file: w4-feminism.qmd
+            - text: W5 Bearing Witness
+              file: w5-witness.qmd
         #- section: "Resources"
         #  contents:
         #    - text: Theory as Narrative
