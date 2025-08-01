@@ -10,7 +10,7 @@ library(tidyverse)
 library(palmerpenguins)
 ```
 
-# W5: Bearing Witness
+# W5: Witnessing
 
 I wanted to introduce you to [Allissa Richardson](https://allissavrichardson.com)'s book [**Bearing Witness While Black**](https://global.oup.com/academic/product/bearing-witness-while-black-9780190935535) for a number of reasons.[[![](img/bearing-witness.jpeg)](https://global.oup.com/academic/product/bearing-witness-while-black-9780190935535)]{.aside}
 
