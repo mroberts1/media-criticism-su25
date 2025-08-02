@@ -78,12 +78,12 @@ a:visited {
     //text-underline-offset: 3px;
 }
 a:hover {
-  //color: white;
-  text-decoration: underline;
-  //background-color: #62259d;
+  color: white;
+  //text-decoration: underline;
+  background-color: #62259d;
   //text-decoration-color: #235440;
-  text-decoration-thickness: 2px;
-  text-underline-offset: 3px;
+  //text-decoration-thickness: 2px;
+  //text-underline-offset: 3px;
 }
 a:active {
   text-decoration: none;
