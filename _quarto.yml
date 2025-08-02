@@ -83,5 +83,5 @@ format:
 fig-responsive: true
 image-alt: " "
 execute:
-  freeze: auto
+  freeze: true
 editor: source
