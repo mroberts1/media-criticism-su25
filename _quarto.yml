@@ -30,6 +30,8 @@ website:
               file: w4-feminism.qmd
             - text: W5 Witnessing
               file: w5-witnessing.qmd
+            - text: W6 Aesthetics
+              file: w6-aesthetics.qmd
         #- section: "Resources"
         #  contents:
         #    - text: Theory as Narrative
@@ -70,7 +72,7 @@ format:
     css: custom.scss
     grid:
         #sidebar-width: 400px
-        body-width: 700px
+        body-width: 800px
         #margin-width: 300px
         gutter-width: 2em
     fontsize: 1.1em
