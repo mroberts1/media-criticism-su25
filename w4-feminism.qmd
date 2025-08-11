@@ -16,9 +16,11 @@ library(palmerpenguins)
 
 ::: {.column-margin}
 
-Diane Negra and Yvonne Tasker, "[Introduction](pdf/interrogating-postfeminism-intro.pdf)", **Interrogating Postfeminism: Gender and the Politics of Popular Culture** (Durham, NC: Duke University Press, 2007)<br><br>
+**Readings:**
 
-Martin Roberts, "[The Fashion Police: Governing the Self in **What Not To Wear**](pdf/fashion-police.pdf)" (in Negra and Tasker, eds., **Interrogating Postfeminism**: 227-248)
+- Diane Negra and Yvonne Tasker, "Introduction: Feminist Politics and Postfeminist Culture" [(PDF)](pdf/interrogating-postfeminism-intro.pdf)<br><br>
+
+- Martin Roberts, "The Fashion Police: Governing the Self in *What Not To Wear*" [(PDF)](pdf/fashion-police.pdf)
 
 :::
 

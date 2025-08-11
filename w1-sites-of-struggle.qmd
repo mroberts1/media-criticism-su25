@@ -15,9 +15,10 @@ library(palmerpenguins)
 ::: {.column-margin}
 
 <br><br><br><br><br><br><br><br>
-David Welch, "The Conquest of the Masses" (from **The Third Reich: Politics and Propaganda** (1993))<br><br>
+**Readings:**
 
-Umberto Eco, "Semiological Guerrilla Warfare" (from **Travels in Hyperreality: Essays**, trans. William Weaver (San Diego: Harcourt, Inc., 1983))
+- David Welch, "The Conquest of the Masses" [(PDF)](pdf/welch-conquest-masses.pdf)<br><br>
+- Umberto Eco, "Towards a Semiological Guerrilla Warfare" [(PDF)](pdf/eco-semiological-guerrilla.pdf)
 
 :::
 
@@ -27,7 +28,7 @@ On the most fundamental level, the field of media today can be described as a **
 
 Perhaps most importantly, though, today's digital, networked media technologies and social media platforms are sites of struggle over **meaning**: over the often multiple, often contradictory meanings of media texts, practices, or rituals. The task of media criticism arguably begins with the question of meaning: what certain forms of cultural or media expression mean to different publics and audiences, and how meaning itself is not inherent or self-evident, but socially constructed by the often contradictory interpretations of different communities.
 
-Within this larger, continually evolving field of meaning-making, media criticsm involves the analysis and decoding of media texts within specific **interpretative frameworks**, some of which we will be exploring in this course. They are drawn from a multiplicity of fields of knowledge in the humanities and social sciences, including linguistics (semiotics), literary theory (narrative), political economy (Marxism), psychoanalysis, social theory, feminism, ethnography, and cultural studies. 
+Within this larger, continually evolving field of meaning-making, media criticsm involves the analysis and decoding of media texts within specific **interpretative frameworks**, some of which we will be exploring in this course. They are drawn from a multiplicity of fields of knowledge in the humanities and social sciences, including linguistics (semiotics) [@eco1986semiological], literary theory (narrative), political economy (Marxism), psychoanalysis, social theory, feminism [@negra2007introduction], ethnography, and cultural studies [@hall1980encoding].
 
 The fact that the interpretations of the same media texts are frequently contradictory doesn't mean that they are equivalent in value in a relativistic way. On the contrary, many of the historical and still ongoing struggles over media meangings are struggles over power---over whose media practice, whose interpretation, is the dominant or valid one. It is often the practices and intrepretations of the most dominant groups within a society, or between societies, that are held to be the most valid ones. But resistant intrepretations and practices are always present, even when repressed, and may challenge or destabilize those of dominant socio-political groups.
 
@@ -44,10 +45,17 @@ While this may seem like a particularly complex example, I would argue that it's
 
 As a cultural and political practice, media criticism sets out to make sense of all of this. How does it do this? What kinds of frameworks would enable us to understand examples such as the AI-Ghibli phenomenon or the alt-right's political appropriation of the Pepe The Frog meme in the lead-up to the 2016 US election? Who would have thought that the charming visual style of Studio Ghibli's much-loved films, many directed by the self-professed pacifist Hayao Miyazaki, would be appropriated as what appears to be a contemporary form of propaganda? Why would the White House, the IDF, or other political actors appropriate that style? What are they trying to communicate by doing so? I leave you to consider such questions, and am curious to hear what you think.
 
-If you were wondering, then, why I assigned you to read one of the early chapters from David Welch's study of propaganda in the Third Reich, or Umberto Eco's chapter on what he calls "semiological guerrilla warfare", then by now you may have a better understanding why. Even though Eco's concept dates from the early 1980s, the AI-Ghibli images amply demonstrate that the age of social media, still several decades away at the time, is today very much a field of semiological guerrilla warfare---not just a war in the human sense but also a war of **signs**: the signs in question being the existing global cultural mythology of Studio Ghibli itself, which is appropriated in different contexts and for different political purposes as a kind of second-order ideological language. This appropriation of an existing corpus of signs within (global) culture is one of the fundamental practices of what the French literary theorist Roland Barthes called "Mythologies" in his 1957 book of the same name: the process by which ideology presents itself as "normal" or "natural" rather than historical and dependent on highly unequal political, economic, and social dynamics. 
+If you were wondering, then, why I assigned you to read one of the early chapters from @welch1993conquest study of propaganda in the Third Reich, or @eco1986semiological chapter on what he calls "semiological guerrilla warfare", then by now you may have a better understanding why. Even though Eco's concept dates from the early 1980s, the AI-Ghibli images amply demonstrate that the age of social media, still several decades away at the time, is today very much a field of semiological guerrilla warfare---not just a war in the human sense but also a war of **signs**: the signs in question being the existing global cultural mythology of Studio Ghibli itself, which is appropriated in different contexts and for different political purposes as a kind of second-order ideological language. This appropriation of an existing corpus of signs within (global) culture is one of the fundamental practices of what @barthes1972mythologies called "Mythologies" in his 1957 book of the same name: the process by which ideology presents itself as "normal" or "natural" rather than historical and dependent on highly unequal political, economic, and social dynamics.
 
-A wider question raised by the examples I've been discussing are about the nature of propaganda itself. What exactly is "propaganda"? David Welch's book on the Third Reich offers some useful starting points for reflecting on this subject, and its relevance to contemporary geopolitical contexts. If you're interested in exploring this subject further, you'll certainly need to watch Leni Riefenstahl's film [**Triumph of the Will**](https://museums.nuernberg.de/documentation-center/nazi-party-rallies/triumph-of-the-will) (1935), regarded as the class text of the Nazi propaganda machine. It still makes for chilling viewing today.
+A wider question raised by the examples I've been discussing are about the nature of propaganda itself. What exactly is "propaganda"? @welch1993conquest offers some useful starting points for reflecting on this subject, and its relevance to contemporary geopolitical contexts. If you're interested in exploring this subject further, you'll certainly need to watch Leni Riefenstahl's film [**Triumph of the Will**](https://museums.nuernberg.de/documentation-center/nazi-party-rallies/triumph-of-the-will) (1935), regarded as the classic text of the Nazi propaganda machine. It still makes for chilling viewing today.
 
 ![](img/image2.png)
+
+---
+
+## References
+
+::: {#refs}
+:::
 
 ***

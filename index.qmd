@@ -40,11 +40,11 @@ This online, asynchronous course examines approaches to the analysis and critici
 
 There are two components of this course: 
 
-1. A survey of such critical approaches/methods as semiotics, psychoanalysis, genre studies, feminist theories, cultural studies and postmodernism; 
+1. A survey of such critical approaches/methods as semiotics [@eco1986semiological; @barthes1972mythologies], psychoanalysis, genre studies, feminist theories [@negra2007introduction], cultural studies [@hall1980encoding], and postmodernism [@baudrillard1994simulacra; @jameson1991postmodernism]; 
 
 2. The application of these approaches to examining and critiquing various media forms and contents. We will spend a major part of this semester building up theoretical/methodological foundation while devoting the remaining to the critique and analysis of specific media texts and contexts.
 
-Through extensive reading, writing, class discussion and screening, you will begin to develop the ability to analyze and critique popular media messages and images, as well as develop a critical worldview.
+Through extensive reading, writing, class discussion and screening, you will begin to develop the ability to analyze and critique popular media messages and images [@mulvey1975visual], as well as develop a critical worldview informed by contemporary media theory [@fisher2009capitalist].
 
 **Student Learning Objectives**
 
@@ -58,9 +58,9 @@ By the end of the course, students should be able to:
 
 **Required Texts**
 
-Mark Fisher, **Capitalist Realism: Is There No Alternative?** (Winchester, UK, and Washington, USA: Zero Books, 2009).
+Mark Fisher, *Capitalist Realism: Is There No Alternative?* (Winchester, UK, and Washington, USA: Zero Books, 2009).
 
-Allissa V. Richardson, **Bearing Witness While Black: African Americans, Smartphones, and the New Protest \#Journalism** (Oxford: Oxford University Press, 2020).
+Allissa V. Richardson, *Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism* (Oxford: Oxford University Press, 2020).
 
 Supplementary readings, available on Canvas (see bibliography).
 
@@ -144,40 +144,44 @@ Response papers (2) 30%
 
 **Introduction: Sites of Struggle**
 
-Introduction to the course (Contemporary Criticism + Discourse); Semiotics (signs, denotation, connotation, paradigm & syntagm)
+Introduction to the course (Contemporary Criticism + Discourse); Semiotics (signs, denotation, connotation, paradigm & syntagm) [@eco1986semiological]
 
 To read:
 
-- David Welch, "The Conquest of the Masses" (from **The Third Reich: Politics and Propaganda** (1993))
-- Umberto Eco, "Semiological Guerrilla Warfare"
+- David Welch, "The Conquest of the Masses"
+- Umberto Eco, "Towards a Semiological Guerrilla Warfare"
 
 *Week 2: Wed 9 July---Tues 15 July*
 
 **Obey: Ideology and the Orwellian**
 
+Exploring how ideology shapes media representation and consumption, drawing on Althusser's concept of ideological state apparatuses [@althusser1971ideology] and Fisher's analysis of capitalist realism [@fisher2009capitalist].
+
 To read:
 
 - Louis Althusser, "Ideology and Ideological State Apparatuses"
-- Mark Fisher, Introduction to **Capitalist Realism**
-- Mark Fisher, "Lecture 1", **Postcapitalist Desire**
+- Mark Fisher, "It's Easier to Imagine the End of the World Than the End of Capitalism"
+- Mark Fisher, "Lecture 1: What Is Postcapitalist Desire?"
 
-To watch (if you haven't already!): **Squid Game**
+To watch (if you haven't already!): *Squid Game*
 
 *Week 3: Wed 16 July---Tues 22 July*
 
 **Simulation and Pastiche: Postmodernism**
 
+Examining postmodern media culture through the lens of simulation theory and performativity, using contemporary Instagram art as a case study [@ulman2014excellences].
+
 To read:
 
-- [Amalia Ulman](http://amaliaulman.eu/) (website); [Instagram](https://www.instagram.com/amaliaulman/)  
-- Alastair Sooke, “[Is This The First Instagram Masterpiece?](http://www.telegraph.co.uk/photography/what-to-see/is-this-the-first-instagram-masterpiece/)” (**The Telegraph**, 18 January 2016)  
-- “[Amalia Ulman: Meme Come True](http://www.dazeddigital.com/artsandculture/article/23700/1/amalia-ulman-meme-come-true)” (**Daze**)  
--  Emilie Friedlander, “[Social Anxiety: Why Amalia Ulman’s Fake ‘Middlebrow’ Instagram Is No Different From Yours](http://www.thefader.com/2014/11/07/social-anxiety-why-amalia-ulmans-middlebrow-instagram-feed-is-no-different-from-yours),” (**Fader**, 7 November 2014)
+- Amalia Ulman, "Excellences & Perfections" ([website](http://amaliaulman.eu/); [Instagram](https://www.instagram.com/amaliaulman/))
+- Alastair Sooke, "Is This The First Instagram Masterpiece?"
+- "Amalia Ulman: Meme Come True"
+- Emilie Friedlander, "Social Anxiety: Why Amalia Ulman's Fake 'Middlebrow' Instagram Is No Different From Yours"
 
 To watch: 
 
-- **El Planeta** (Amalia Ulman, 2020)
-- **Inventing Anna**, episode 6 (Netflix, 2022)s
+- *El Planeta*
+- *Inventing Anna*, Episode 6: "Friends in Low Places"
 
 **Due Tuesday 22 July: Paper 1**
 
@@ -185,17 +189,21 @@ To watch:
 
 **Feminism/Postfeminism**
 
-- Diane Negra and Yvonne Tasker, "[Introduction](pdf/interrogating-postfeminism-intro.pdf)", **Interrogating Postfeminism: Gender and the Politics of Popular Culture** (Durham, NC: Duke University Press, 2007)
-- Martin Roberts, "[The Fashion Police: Governing the Self in **What Not To Wear**](pdf/fashion-police.pdf)" (in Negra and Tasker, eds., **Interrogating Postfeminism**: 227-248)
+Analyzing the shift from feminist to postfeminist media culture [@negra2007introduction] and its implications for contemporary media representation.
+
+- Diane Negra and Yvonne Tasker, "Introduction: Feminist Politics and Postfeminist Culture" [PDF](pdf/interrogating-postfeminism-intro.pdf)
+- Martin Roberts, "The Fashion Police: Governing the Self in *What Not To Wear*" [PDF](pdf/fashion-police.pdf)
 
 *Week 5: Wed 30 July---Tues 5 August*
 
 **Witnessing**
 
-Allissa Richardson, **Bearing Witness While Black**
+Examining the role of digital media in documenting social justice and the concept of "bearing witness" in contemporary protest movements [@richardson2020bearing].
 
--   "[Looking As Rebellion: The Concept of Black Witnessing](pdf/richardson-bearing-witness-ch1.pdf)" (ch. 1)
--   "[The New Protest \#Journalism: Black Witnessing as Counternarrative](richardson-bearing-witness-ch3.pdf)" (ch. 3)
+Allissa V. Richardson, *Bearing Witness While Black*:
+
+- Chapter 1: "Looking As Rebellion: The Concept of Black Witnessing" [PDF](pdf/richardson-bearing-witness-ch1.pdf)
+- Chapter 3: "The New Protest #Journalism: Black Witnessing as Counternarrative" [PDF](richardson-bearing-witness-ch3.pdf)
 
 **Due Wed 6 August: Response Paper 1 (**El Planeta**)**
 
@@ -203,8 +211,10 @@ Allissa Richardson, **Bearing Witness While Black**
 
 **Tribes: Subcultures, Lifestyles, Aesthetics**
 
-- Guilherme Giolo and Michaël Berghman, "[The Aesthetics of the Self: The Meaning-Making of Internet Aesthetics](pdf/giolo-berghman-aesthetics.pdf)"
-- See also: [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) (read all articles in the section called "What Are Aesthetics?" and explore the site)
+Investigating how internet aesthetics function as forms of identity construction and community building [@giolo2024aesthetics].
+
+- Guilherme Giolo and Michaël Berghman, "The Aesthetics of the Self: The Meaning-Making of Internet Aesthetics" [PDF](pdf/giolo-berghman-aesthetics.pdf)
+- [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) (read all articles in the section called "What Are Aesthetics?" and explore the site)
 
 **Due Tuesday 12 August: Response Papr 2 (film analysis)**
 
@@ -212,9 +222,24 @@ Allissa Richardson, **Bearing Witness While Black**
 
 **Fandom**
 
-- Nancy Baym, "Social Media and the Struggle for Society"
-- Nancy Baym, Daniel Cavicchi, Norma Coates, "Music Fandom in the Digital Age: A Conversation" (in Melissa A. Click and Suzanne Scott, eds., **The Routledge Companion to Media Fandom** (New York: Routledge/Taylor & Francis, 2018: 141-52))
+Exploring participatory culture and the social dynamics of digital fan communities [@baym2018music; @jenkins2012textual].
+
+- Nancy K. Baym, "[Social Media and the Struggle for Society](pdf/baym-social-media-society.pdf)"  
+- Nancy K. Baym, Daniel Cavicchi, and Norma Coates, "[Music Fandom in the Digital Age: A Conversation](pdf/baym-music-fandom.pdf)"  
 
 **Due Tues 19 Aug: Paper 2/Creative Project Due**
 
-***
+---
+
+## Bibliography
+
+::: {#refs}
+:::
+
+## Filmography
+
+*El Planeta*. Directed by Amalia Ulman. Holga's Meow Pictures, 2020. 79 minutes.
+
+*Inventing Anna*. Created by Shonda Rhimes. Netflix, 2022. Television miniseries.
+
+*Squid Game*. Directed by Hwang Dong-hyuk. Netflix, 2021. Television series, 9 episodes.

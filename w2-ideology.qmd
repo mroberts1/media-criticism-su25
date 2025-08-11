@@ -16,11 +16,11 @@ library(palmerpenguins)
 
 ::: {.column-margin}
 
-Louis Althusser, "[Ideology and Ideological State Apparatuses](pdf/althusser-ideology.pdf)"<br><br>
+**Readings:**
 
-Mark Fisher, [Introduction to **Capitalist Realism**](pdf/postcapitalist-desire-lecture1.pdf)<br><br>
-
-Mark Fisher, excerpt from "[Lecture 1: What Is Postcapitalism?](postcapitalist-desire-lecture1.pdf)", in **Postcapitalist Desire: The Final Lectures** (2020)
+- Louis Althusser, "Ideology and Ideological State Apparatuses" [(PDF)](pdf/althusser-ideology.pdf)<br><br>
+- Mark Fisher, "It's Easier to Imagine the End of the World Than the End of Capitalism" [(PDF)](pdf/fisher-capitalist-realism-intro.pdf)<br><br>
+- Mark Fisher, "Lecture 1: What Is Postcapitalist Desire?" [(PDF)](pdf/postcapitalist-desire-lecture1.pdf)
 
 :::
 

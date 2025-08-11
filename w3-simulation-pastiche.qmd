@@ -13,19 +13,21 @@ library(palmerpenguins)
 # W2: Simulation & Pastiche: Postmodernism
 
 [![](img/claudio-bravo-madonna.png)](https://store.nonesuch.com/products/visions-and-miracles-digital-mp3-album)  
-
 ::: {.column-margin}
 
-[Amalia Ulman](http://amaliaulman.eu/); [Instagram](https://www.instagram.com/amaliaulman/)<br><br>
-Alastair Sooke, “[Is This The First Instagram Masterpiece?](http://www.telegraph.co.uk/photography/what-to-see/is-this-the-first-instagram-masterpiece/)” (**The Telegraph**, 18 January 2016)<br><br>
-“[Amalia Ulman: Meme Come True](http://www.dazeddigital.com/artsandculture/article/23700/1/amalia-ulman-meme-come-true)” (**Dazed**)<br><br>
-Emilie Friedlander, “[Social Anxiety: Why Amalia Ulman’s Fake ‘Middlebrow’ Instagram Is No Different From Yours](http://www.thefader.com/2014/11/07/social-anxiety-why-amalia-ulmans-middlebrow-instagram-feed-is-no-different-from-yours),” (**Fader**, 7 November 2014)<br><br>
+**Readings:**
 
-To watch:<br><br>
+- Amalia Ulman, "Excellences & Perfections" ([website](http://amaliaulman.eu/); [Instagram](https://www.instagram.com/amaliaulman/))<br><br>
+- Alastair Sooke, "Is This The First Instagram Masterpiece?"<br><br>
+- "Amalia Ulman: Meme Come True"<br><br>
+- Emilie Friedlander, "Social Anxiety: Why Amalia Ulman's Fake 'Middlebrow' Instagram Is No Different From Yours"<br><br>
 
-[**El Planeta**](https://www.justwatch.com/us/movie/el-planeta) (Amalia Ulman, 2020)<br><br>
-[**Inventing Anna**](https://www.netflix.com/search?q=inventing%20anna&jbv=81008305), episode 6 (Netflix, 2022)
+**To watch:**<br><br>
 
+- *El Planeta*<br><br>
+- *Inventing Anna*, Episode 6
+
+:::
 :::
 
 <small>[Claudio Bravo](https://en.wikipedia.org/wiki/Claudio_Bravo_(painter)), **Madonna** (1979)</small>

@@ -32,10 +32,10 @@ website:
               file: w5-witnessing.qmd
             - text: W6 Aesthetics
               file: w6-aesthetics.qmd
-        #- section: "Resources"
-        #  contents:
-        #    - text: Theory as Narrative
-        #      file: theory-narrative.qmd
+        # - section: "Resources"
+        #   contents:
+        #     - text: Key Concepts
+        #       file: key-concepts.qmd
   navbar:
     background: "#62259d"
     search: true
@@ -87,3 +87,6 @@ image-alt: " "
 execute:
   freeze: true
 editor: source
+bibliography: references.bib
+csl: chicago-author-date.csl
+link-citations: true
