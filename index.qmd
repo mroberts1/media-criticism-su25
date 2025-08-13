@@ -34,7 +34,7 @@ Zoom Office Hours: by appointment
 
 https://emerson.zoom.us/j/96415591363 (Passcode: 923351)
 
-**Course Description**
+## Description
 
 This online, asynchronous course examines approaches to the analysis and criticism of contemporary media. You will learn how to become critical of the media messages you use *and* create, and how to think and write with agency.
 
@@ -46,7 +46,7 @@ There are two components of this course:
 
 Through extensive reading, writing, class discussion and screening, you will begin to develop the ability to analyze and critique popular media messages and images [@mulvey1975visual], as well as develop a critical worldview informed by contemporary media theory [@fisher2009capitalist].
 
-**Student Learning Objectives**
+## Learning Objectives
 
 By the end of the course, students should be able to:
 
@@ -56,7 +56,7 @@ By the end of the course, students should be able to:
 4. Appreciate an ethically-based and de-centered global perspective on media form and function, sensitive to the work of minority critics and theorists under-represented in the canons of media criticism
 5. Apply theory to practice, and engage with contemporary media production and consumption as critically aware media artists
 
-**Required Texts**
+## Required Texts
 
 Mark Fisher, *Capitalist Realism: Is There No Alternative?* (Winchester, UK, and Washington, USA: Zero Books, 2009).
 
@@ -64,7 +64,7 @@ Allissa V. Richardson, *Bearing Witness While Black: African Americans, Smartpho
 
 Supplementary readings, available on Canvas (see bibliography).
 
-**Course Structure and Requirements**
+## Course Structure and Requirements
 
 **Schedule**\
 The course begins on Wednesday 2 July and ends on Tuesday 19 August. Each week of the course accordingly begins on a **Wednesday** and ends on the following **Tuesday**.
@@ -109,26 +109,25 @@ The grading scale for papers is as follows:
 |D|This work exhibits little understanding of the subject matter or paper requirements. It fails to follow rudimentary formatting and displays sloppiness in spelling, grammar and sourcing. (D=65)|
 |F|This work exhibits no understanding of the subject matter or paper requirements. It fails to follow rudimentary formatting and displays sloppiness in spelling, grammar and sourcing. (F=55)|
 
-**Academic Honesty**\
+## Academic Honesty
+
 Do not plagiarize. Plagiarism is using someone else’s work without giving them fair credit. Plagiarism and cheating will result in an “F” for the assignment.
 
-**Disability Statement**
-
-**Accommodations for Students with Disabilities**
+## Accommodations for Students with Disabilities
 
 Emerson is committed to providing equal access and support to all qualified students through the provision of reasonable accommodations, so that each student may fully participate in the Emerson experience. Student Accessibility Services (SAS) staff will be working remotely for the fall of 2020. If you have a disability that may require accommodations, please contact them at  [*SAS@emerson.edu*](mailto:SAS@emerson.edu) or at (617)824-8592 to make an appointment with an SAS staff member.
 
 Students are encouraged to contact SAS early in the semester. Please be aware that accommodations are not applied retroactively.
 
-**Plagiarism Statement**
+## Plagiarism Statement
 
 It is the responsibility of all Emerson students to know and adhere to the College’s policy on plagiarism, which can be found at:  [*http://www.emerson.edu/policy/plagiarism*](http://www.emerson.edu/policy/plagiarism)*. If you have any question concerning the Emerson plagiarism policy or about documentation of sources in work you produce in this course, speak to your instructor.
 
-**Diversity Statement**
+## Diversity Statement
 
 Every student in this class will be honored and respected as an individual with distinct experiences, talents, and backgrounds. Students will be treated fairly regardless of race, religion, sexual orientation, gender identification, disability, socio-economic status, or national identity. Issues of diversity may be a part of class discussion, assigned material, and projects. The instructor will make every effort to ensure that an inclusive environment exists for all students. If you have any concerns or suggestions for improving the classroom climate, please do not hesitate to speak with the course instructor or to contact the Office of Diversity and Inclusion at 617-824-8528 or by email at  [*diversity*inclusion@emerson.edu*](mailto:diversity*inclusion@emerson.edu)
 
-**Grading**
+## Grading
 
 Paper #1 20%
 
@@ -138,7 +137,7 @@ Discussion Posts 30%
 
 Response papers (2) 30%
 
-**Class Schedule** (provisional)
+## Class Schedule
 
 *Week 1: Wed 2 July---Tues 8 July*
 
@@ -183,7 +182,7 @@ To watch:
 - *El Planeta*
 - *Inventing Anna*, Episode 6: "Friends in Low Places"
 
-**Due Tuesday 22 July: Paper 1**
+**DEADLINE: Tuesday 22 July: Paper 1**
 
 *Week 4: Wed 23 July---Tues 29 July*
 
@@ -205,7 +204,7 @@ Allissa V. Richardson, *Bearing Witness While Black*:
 - Chapter 1: "Looking As Rebellion: The Concept of Black Witnessing" [PDF](pdf/richardson-bearing-witness-ch1.pdf)
 - Chapter 3: "The New Protest #Journalism: Black Witnessing as Counternarrative" [PDF](richardson-bearing-witness-ch3.pdf)
 
-**Due Wed 6 August: Response Paper 1 (**El Planeta**)**
+**DEADLINE: Wednesday 6 August: Response Paper 1 (**El Planeta**)**
 
 *Week 6: Wed 6 August---Tues 12 August*
 
@@ -216,8 +215,6 @@ Investigating how internet aesthetics function as forms of identity construction
 - Guilherme Giolo and Michaël Berghman, "The Aesthetics of the Self: The Meaning-Making of Internet Aesthetics" [PDF](pdf/giolo-berghman-aesthetics.pdf)
 - [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) (read all articles in the section called "What Are Aesthetics?" and explore the site)
 
-**Due Tuesday 12 August: Response Papr 2 (film analysis)**
-
 *Week 7: Wed 13 August---Tues 19 August*
 
 **Fandom**
@@ -225,21 +222,10 @@ Investigating how internet aesthetics function as forms of identity construction
 Exploring participatory culture and the social dynamics of digital fan communities [@baym2018music; @jenkins2012textual].
 
 - Nancy K. Baym, "[Social Media and the Struggle for Society](pdf/baym-social-media-society.pdf)"  
-- Nancy K. Baym, Daniel Cavicchi, and Norma Coates, "[Music Fandom in the Digital Age: A Conversation](pdf/baym-music-fandom.pdf)"  
+- Nancy K. Baym, Daniel Cavicchi, and Norma Coates, "[Music Fandom in the Digital Age: A Conversation](pdf/baym-music-fandom.pdf)" 
 
-**Due Tues 19 Aug: Paper 2/Creative Project Due**
+**DEADLINE: Tuesday 19 August: Response Paper 2 (film analysis)**
+
+**DEADLINE: Friday 22 August: Paper 2/Creative Project**
 
 ---
-
-## Bibliography
-
-::: {#refs}
-:::
-
-## Filmography
-
-*El Planeta*. Directed by Amalia Ulman. Holga's Meow Pictures, 2020. 79 minutes.
-
-*Inventing Anna*. Created by Shonda Rhimes. Netflix, 2022. Television miniseries.
-
-*Squid Game*. Directed by Hwang Dong-hyuk. Netflix, 2021. Television series, 9 episodes.
