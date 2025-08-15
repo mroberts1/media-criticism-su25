@@ -126,22 +126,6 @@ Jenkins, Henry. *Textual Poachers: Television Fans and Participatory Culture*. 2
 
 Thornton, Sarah. *Club Cultures: Music, Media, and Subcultural Capital*. Middletown, CT: Wesleyan University Press, 1996.
 
----
-
-::: {.callout-note}
-## Using Citations in Your Papers
-When citing these sources in your papers, you can use the citation keys (e.g., `@fisher2009capitalist`). The full bibliography will be automatically generated at the end of your document.
-:::
-
-::: {.callout-tip}
-## Library Access
-Most of these readings are available through:
-- Canvas course site (PDF uploads)
-- Emerson College Library databases
-- Course reserves at the Iwasaki Library
-- Open access repositories (where indicated)
-:::
-
 ## Filmography
 
 *El Planeta*. Directed by Amalia Ulman. Holga's Meow Pictures, 2020. Film, 79 minutes.
