@@ -32,6 +32,8 @@ website:
               file: w5-witnessing.qmd
             - text: W6 Aesthetics
               file: w6-aesthetics.qmd
+            - text: W7 Fandom
+              file: w7-fandom.qmd
         # - section: "Resources"
         #   contents:
         #     - text: Key Concepts
