@@ -16,7 +16,7 @@ library(palmerpenguins)
 
 :::
 
-# W6: Aesthetics
+# W6: From Subcultures to Aesthetics
 
 ::: {.column-margin}
 
