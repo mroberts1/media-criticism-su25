@@ -77,7 +77,7 @@ format:
         body-width: 800px
         #margin-width: 300px
         gutter-width: 2em
-    fontsize: 1.1em
+    fontsize: 1em
     linestretch: 1.5
     smooth-scroll: true
     linkcolor: "#62259d"
